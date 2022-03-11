@@ -146,7 +146,7 @@ Following the example above, add the functionality required to:
 2. Add code so that when a category is clicked the product list is updated to show only products from that category.
 3. Add a menu item to the category list to display all products when clicked.
 4. Add the code etc. to display the details for a single product when a product name is clicked. Display the product details in a new section under the products table.
-5. Use a Bootstrap Modal form to display the single product details, see https://getbootstrap.com/docs/4.5/components/modal/
+5. Use a Bootstrap Modal form to display the single product details, see https://getbootstrap.com/docs/5.0/components/modal/
 
 
 
